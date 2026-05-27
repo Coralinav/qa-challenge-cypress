@@ -1,0 +1,5 @@
+{
+  "validPassword": "Test12345",
+  "wrongPassword": "WrongPassword123",
+  "usernamePrefix": "melanie"
+}
