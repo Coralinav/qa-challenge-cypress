@@ -1,9 +1,9 @@
 Author:
 Melanie Navarro
 
-==================================================
+
 OVERVIEW
-==================================================
+
 
 This project was developed using Cypress and JavaScript to automate both E2E and API testing scenarios.
 
@@ -12,9 +12,9 @@ Technologies Used:
 - JavaScript
 - Node.js
 
-==================================================
+
 E2E AUTOMATION
-==================================================
+
 
 Scenario automated:
 - Complete purchase flow in SauceDemo
@@ -25,9 +25,9 @@ Framework Design:
 - Reusable methods
 - Externalized test data using fixtures
 
-==================================================
+
 API AUTOMATION
-==================================================
+
 
 Validated scenarios:
 - User signup
@@ -41,9 +41,9 @@ Framework Design:
 - Externalized payloads
 - Centralized API logic
 
-==================================================
+
 PROJECT STRUCTURE
-==================================================
+
 
 cypress/
 - api/
@@ -53,9 +53,9 @@ cypress/
 - selectors/
 - support/
 
-==================================================
+
 RUN TESTS
-==================================================
+
 
 1. Install project dependencies:
 npm install
